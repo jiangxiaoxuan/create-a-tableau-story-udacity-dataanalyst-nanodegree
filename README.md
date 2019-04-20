@@ -1,6 +1,6 @@
 # create-a-tableau-story-udacity-dataanalyst-nanodegree
 
-Created a tableau story to provide suggestions for lenders in peer-to-peer loan platform. Data for analysis and relevant definitions are included in this GitHub files.
+Created a tableau story to provide suggestions for lenders in peer-to-peer loan platform. Data for analysis and relevant definitions are included in this GitHub Repo.
 
 <img src="https://github.com/jiangxiaoxuan/create-a-tableau-story-udacity-dataanalyst-nanodegree/raw/master/prosper-logo.png" width = 300 />
 

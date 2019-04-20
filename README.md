@@ -35,13 +35,13 @@ After knowing about who and how to lend the money. Lastly, we had a look at the 
 # Feedbacks and Improvement
 
 
-1. When clicking the publish-to-public button, one need to select out the first page of the story or else the published story will be showing to audience whatever page you are looking at the time you publish the story.
-2. The line graph(1st graph) for prosper loans overview over the years has too many lines and the data in the 2014 should be taken off as it appeared to be a drop in the trend but actually it’s just because the data collection in 2014 is incomplete.
-3. In the 2nd graph, one of my friends has noted that the completed loans has even decreased, though the default loans kept low. This may be explained by the longer terms of the loans because people have more confident in borrower’s credibility. An improvement will be add in a graph(3rd graph) to show the trend of term VS year.
+1. When clicking the publish-to-public button, one need to select out the first page of the story or else the published story will be showing to audience whatever page you are reading at the time you publish the story.
+2. The line graph(1st graph) for prosper loans overview over the years has too many lines and the data in the 2014 should be taken off as it appeared to be a drop in the trend but actually it’s just because the data collection in 2014 was incomplete.
+3. In the 2nd graph, one of my friends has noted that the completed loans had decreased, though the default loans kept low. This might be explained by the longer terms of the loans because people have more confidence in borrower’s credibility. An improvement will be inserting a graph(3rd graph) to illustrate the relationship of term VS year.
 4. The scales of the 5th graph for average estimated lender yield and average estimated loss are different. So I later forced a scale of 0-0.34 on both scales to ensure consistency.
-5. The AA and A rating rows should switch their positions so that the order of layout is consistent with from highest rating to lowest rating.
-6. Didn’t illustrate the average term information encoded in the colour information in the overview of geographical loan data(8th graph), The east bay of United States is providing longer term of loans. So I just added the explanation in the story text session of that graph.
-7. We can see from the above comment that indexing the graphs is important in future referencing, so I will add index for each graph such as 1st graph, second graph,etc.
+5. The AA and A rating rows should switch their positions so that the order of layout is consistently from highest rating to lowest rating.
+6. Didn’t illustrate the average term information encoded in the colour information in the overview of geographical loan data(8th graph), The east bay of United States has been providing longer term of loans. So I added the explanation in the story text section of that graph.
+7. We can see from the above comments that indexing the graphs is important for future references, so I added index for each graph such as "1st graph", "2nd graph",etc.
 
 # Resources
 

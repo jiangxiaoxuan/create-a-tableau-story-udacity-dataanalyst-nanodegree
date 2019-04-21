@@ -6,7 +6,7 @@ Created a tableau story to provide suggestions for lenders in peer-to-peer loan 
 
 [First Version of My Tableau Story](https://public.tableau.com/profile/xiaoxuan.jiang#!/vizhome/UdacityNanodegreeProsperLoansAnlaysis/Story1?publish=yes)
 
-[Final Version of My Tableau Story](https://public.tableau.com/profile/xiaoxuan.jiang#!/vizhome/ProsperLoansAnalysisaguideforlenders/Story1?publish=yes)
+[Final Version of My Tableau Story](https://public.tableau.com/profile/xiaoxuan.jiang#!/vizhome/ProsperLoansAnalysisaguideforlenders/Story1)
 
 # Preview of Tableau Story
 

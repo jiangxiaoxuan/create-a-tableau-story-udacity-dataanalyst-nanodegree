@@ -10,16 +10,9 @@ Created a tableau story to provide suggestions for lenders in peer-to-peer loan 
 
 # Preview of Tableau Story
 
-<img src="https://github.com/jiangxiaoxuan/create-a-tableau-story-udacity-dataanalyst-nanodegree/raw/master/preview.png"/>
-
-First Version of My Tableau Story: https://public.tableau.com/profile/xiaoxuan.jiang#!/vizhome/UdacityNanodegreeProsperLoansAnlaysis/Story1?publish=yes
-
-Final Version of My Tableau Story:
-https://public.tableau.com/profile/xiaoxuan.jiang#!/vizhome/ProsperLoansAnalysisaguideforlenders/Story1 
-
-      
-      
+<img src="https://github.com/jiangxiaoxuan/create-a-tableau-story-udacity-dataanalyst-nanodegree/raw/master/preview.png"/>      
                   
+
 # Introduction
           
 This is for people who want to lend their money and gives information on a lending market. Loan data information from Prosper, a lending platform, contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. Important information for lenders in visualized. 
@@ -182,7 +175,9 @@ Geographically wise, the East and West Bay areas plus Illinois have more peer-to
 # Resources
 
 **Github Repo:**
+
 https://github.com/igorstojanovic91/udacity-create-a-tableau-story
+
 https://github.com/latinacode/Create-a-Tableau-Story
 
 **Tableau Published Page:**
